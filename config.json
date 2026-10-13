@@ -1,6 +1,6 @@
 {
   "Author": "Israt",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "language": "en",
   "adminOnly": false,
   "autoSent": true,
@@ -21,6 +21,10 @@
     "🤧",
     "😤",
     "😠"
+    "🫶"
+    "😌"
+    "🥺"
+    "🤣"
   ],
   "ADMINBOT": [
     "61592444193026",
@@ -59,3 +63,6 @@
   "commandDisabled": [],
   "eventDisabled": []
 }
+"🙂"
+"💔"
+"🫶"
