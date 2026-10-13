@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "sifat-chat-bot",
   "version": "3.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By Sifat SAHU",
   "main": "Main.js",
   "engines": {
     "node": "22.x",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git"
+    "url": "https://www.facebook.com/profile.php?id=61592444193026"
   },
   "keywords": [
     "bot",
@@ -21,17 +21,17 @@
     "shahadatproject",
     "messenger",
     "javascript",
-    "shadat",
-    "UhasSahu",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "sifat",
+    "Sifat",
+    "sifatsahu,
+    "Sifat chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "Sifat",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
+    "url": "https://www.facebook.com/profile.php?id=61592444193026"
   },
-  "homepage": "https://gitlab.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
+  "homepage": "https://www.facebook.com/profile.php?id=61592444193026",
   "dependencies": {
     "@miraipr0ject/assets": "^1.0.9",
     "axios": "^1.6.0",
